@@ -15,4 +15,4 @@ poetry run python src/webcam-feed-flask/app.py
 ## Routes
 
 - "/"
-- "/video_feed"# Web-CAM-Feed
+- "/video_feed"
